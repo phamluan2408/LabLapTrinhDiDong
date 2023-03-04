@@ -1,0 +1,4 @@
+#Sat Mar 04 21:51:14 ICT 2023
+base.0=F\:\\DessertClicker-Starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
